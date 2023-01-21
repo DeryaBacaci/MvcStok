@@ -2,7 +2,7 @@
 
 Proje video izleme Linki:
 https://drive.google.com/file/d/1fgUY61KaQpAXQRVnNu0Jtd8kZVxgkeh-/view?usp=sharing
-
+Dinamik bir proje olan MVCSTOK projesinde ürün kaydı ve stok takip sisteminden oluşmaktadır.
 
 
 -------------PROJEMDE UYGULADIKLARIM---------------------
